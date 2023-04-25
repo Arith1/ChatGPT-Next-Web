@@ -92,8 +92,7 @@ export function SideBar(props: { className?: string }) {
       <div className={styles["sidebar-header"]}>
         <div className={styles["sidebar-title"]}>ChatGPT Next</div>
         <div className={styles["sidebar-sub-title"]}>
-        <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=cLz0JxZ7w-Am5O-gAt95tgdItfMeBYn7&jump_from=webapi&authKey=7GWLTP4cw61+79REx7VmRVk6ROs44XaKau+S/AeVW4nbrlhqMqKKUhZeHSsDV6nb">
-          <img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="Chatgpt-Next-Web" title="Chatgpt-Next-Web"></a>
+        联系方式+Q:1270308266
         </div>
         <div className={styles["sidebar-logo"]}>
           <ChatGptIcon />
